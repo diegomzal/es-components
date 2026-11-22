@@ -1,6 +1,6 @@
 {
   "name": "es-components",
-  "version": "21.15.2",
+  "version": "21.16.1-pre-prod.2",
   "description": "React components built for Exchange Solutions products",
   "author": "Willis Towers Watson - Individual Marketplace",
   "license": "MIT",
@@ -38,7 +38,7 @@
   "peerDependencies": {
     "react": ">=17",
     "react-dom": ">=17",
-    "styled-components": "^5 || ^6"
+    "styled-components": "^6"
   },
   "devDependencies": {
     "@babel/cli": "^7.20.7",

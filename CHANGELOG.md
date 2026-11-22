@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [21.16.1-pre-prod.2](https://github.com/WTW-IM/es-components/compare/v21.16.1-pre-prod.1...v21.16.1-pre-prod.2) (2026-11-06)
+
+### Fix
+
+- update yargs import to use the correct module path ([2e08169](https://github.com/WTW-IM/es-components/commit/2e081699749f0f0fc4e7f5c3062e2461a12ce881))
+
+## [21.16.1-pre-prod.1](https://github.com/WTW-IM/es-components/compare/v21.16.1-pre-prod.0...v21.16.1-pre-prod.1) (2026-11-06)
+
+### Build
+
+- skip theme packages in canary publish ([1a3d5eb](https://github.com/WTW-IM/es-components/commit/1a3d5ebb70d58c19a9bc198552a25bbbf4ba2059))
+
+### Fix
+
+- add normalizeStyledGlobal to validate global.styled references in UMD wrapper ([9fa8ea1](https://github.com/WTW-IM/es-components/commit/9fa8ea1e20a6b98ae5301a8d1ba4f3676df06e0a))
+
+## [21.16.1-pre-prod.0](https://github.com/WTW-IM/es-components/compare/v21.16.0...v21.16.1-pre-prod.0) (2026-05-21)
+
+### Fix
+
+- remove styled components v5 from package json (#920) ([69de641](https://github.com/WTW-IM/es-components/commit/69de6419ff9204a2bcd5af034c86d66ce890f2fe)), closes [#920](https://github.com/WTW-IM/es-components/issues/920)
+
+# [21.16.0](https://github.com/WTW-IM/es-components/compare/v21.16.0-pre-prod.0...v21.16.0) (2026-04-14)
+
+**Note:** Version bump only for package es-components-monorepo
+
+# [21.16.0-pre-prod.0](https://github.com/WTW-IM/es-components/compare/v21.15.2...v21.16.0-pre-prod.0) (2026-04-10)
+
+### Fix
+
+- updating contrast colours in sliding pane and progress tracker components ([45127c1](https://github.com/WTW-IM/es-components/commit/45127c13f7fafdcc577a27297c9f30eb84521d51))
+
+### New
+
+- updating star rating component to include new summary view ([128ca98](https://github.com/WTW-IM/es-components/commit/128ca989619127ca6debc3966371bab3765cca36))
+
 ## [21.15.2](https://github.com/WTW-IM/es-components/compare/v21.15.2-pre-prod.10...v21.15.2) (2026-03-02)
 
 **Note:** Version bump only for package es-components-monorepo
